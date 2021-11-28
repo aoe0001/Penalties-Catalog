@@ -1,4 +1,4 @@
-# Penalties-Catalog
+# Penalties Catalog
 
 ##### Spamming
 > 1. Mute
